@@ -22,7 +22,7 @@ This project demonstrates how to learn and apply a 2D affine transformation to m
 ## Outcome
 The final result is a clean overlay of tracked movement on a spatial map, enabling further analysis of motion patterns, speed, and positional accuracy.
 
-## 📸 Examples
+## Examples
 
 Below are two visual examples from the project:
 
